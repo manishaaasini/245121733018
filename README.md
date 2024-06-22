@@ -24,5 +24,6 @@ Authorization Token Response: {
 }![Screenshot 2024-06-22 111058](https://github.com/manishaaasini/245121733018/assets/117998650/3d755cbe-4efc-4737-949d-a1c58cf0f12a)
 
 ![Screenshot 2024-06-22 111630](![Screenshot 2024-06-22 133612](https://github.com/manishaaasini/245121733018/assets/117998650/4caa50b1-6656-4128-845a-74c412113598)
-https://github.com/manishaaasini/245121733018/assets/117998650/97464532-66a8-4d0b-8e53-13670b42da74)
+
+![Screenshot 2024-06-22 133612](https://github.com/manishaaasini/245121733018/assets/117998650/eb191494-d076-4000-9375-f1773f049ac2)
 
